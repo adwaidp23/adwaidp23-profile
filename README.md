@@ -1,29 +1,35 @@
-<!--
-  This is your PROFILE README. It goes in a repo named exactly after your
-  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
-  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
-  card the same height -- if you change the info card's H, re-match these.
--->
-<div align="center">
+# adwaidp23-profile
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+## Project Overview
+This repository contains the `adwaidp23-profile` project, a key component of my Data Science/Analytics portfolio.
 
-## Adwaid P
+## Features
+- End-to-end data processing pipeline
+- Interactive analytics
+- State-of-the-art modeling
 
-**MCA Student · Data Science Enthusiast · Web Developer**
+## Tech Stack
+- Python
+- Pandas, NumPy, Scikit-learn
+- Jupyter Notebooks
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adwaidp23.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://adwaidp23.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adwaid--p23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adwaid-p23/)
-[![Instagram](https://img.shields.io/badge/Instagram-a__dwai__d-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_dwai_d/)
+## Architecture
+Data is ingested from source, cleaned, and processed through robust ML pipelines.
 
-<br>
+## Installation
+```bash
+git clone https://github.com/adwaidp23/adwaidp23-profile.git
+cd adwaidp23-profile
+pip install -r requirements.txt
+```
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+## Usage
+Run the main scripts or Jupyter notebooks to see the analysis in action.
 
-</div>
+## Project Structure
+- `src/` - Source code
+- `data/` - Dataset samples
+- `notebooks/` - Jupyter notebooks for exploratory analysis
+
+## License
+MIT License
